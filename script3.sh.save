@@ -1,0 +1,2 @@
+read  m1 m2 m3 
+total=`expr $m1 + $m2 + $m3$total"
